@@ -1,0 +1,40 @@
+body {
+  margin: 33%;
+  margin-top: 7%;
+}
+
+html {
+  background-image:url(https://wallpapertag.com/wallpaper/full/0/2/5/135066-papyrus-background-1920x1080-for-iphone-5.jpg);
+  color: #3F2A15;
+}
+
+h2 {
+  text-align: center;
+  color: #593C32;
+  text-decoration:underline;
+}
+
+div {
+  text-align: center;
+  text-decoration: blink;
+}
+
+.strong {
+  font-weight: bolder;
+}
+
+.em {
+  font-style:italic;
+}
+
+.strike {
+  text-decoration:line-through;
+}
+
+.ins {
+  text-decoration: underline;
+}
+
+.variant {
+  font-variant: normal;
+}
